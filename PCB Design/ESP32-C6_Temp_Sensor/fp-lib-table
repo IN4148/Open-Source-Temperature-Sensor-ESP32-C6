@@ -1,0 +1,6 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "ESP32-C6-MINI-1-H4")(type "KiCad")(uri "C:/FHTW/BEL6/BA/ESP32-C6/Footprints/LIB_ESP32-C6-MINI-1-H4/ESP32-C6-MINI-1-H4/KiCad/ESP32-C6-MINI-1-H4.pretty")(options "")(descr ""))
+  (lib (name "Espressif")(type "KiCad")(uri "C:/FHTW/BEL6/BA/ESP32-C6/Footprints/kicad-libraries-main/kicad-libraries-main/footprints/Espressif.pretty")(options "")(descr ""))
+  (lib (name "MIC5504-3.3YM5-TR")(type "KiCad")(uri "C:/FHTW/BEL6/BA/ESP32-C6/Footprints/LIB_MIC5504-3.3YM5-TR/MIC5504-3.3YM5-TR/KiCad/MIC5504-3.3YM5-TR.pretty")(options "")(descr ""))
+)
