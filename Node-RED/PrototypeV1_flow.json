@@ -1,4 +1,4 @@
-[
+am[
     {
         "id": "fd628d03fa9ac542",
         "type": "tab",
@@ -44,16 +44,6 @@
         "statusType": "auto",
         "x": 620,
         "y": 260,
-        "wires": []
-    },
-    {
-        "id": "8df0306a63933791",
-        "type": "comment",
-        "z": "fd628d03fa9ac542",
-        "name": "Name Ideas",
-        "info": "Tom Thermo\nHeat Hero",
-        "x": 230,
-        "y": 40,
         "wires": []
     },
     {
@@ -143,7 +133,7 @@
         "token": "oauth2Response.access_token",
         "secure": false,
         "tls": true,
-        "name": "eldin.fatic@htlwien10.at",
+        "name": "example.email@domain.at",
         "dname": "Send Email",
         "x": 1090,
         "y": 560,
